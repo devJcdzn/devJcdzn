@@ -1,23 +1,31 @@
-### Olá! Eu sou o Jean Carlos 👋
+### Olá!! Eu sou o Jean Carlos
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-
-## Tecnologias que uso
-
-<div style = "display: inline_block;" > <br>
-    <img align = 'center' alt ="html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align = 'center' alt ="css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align = 'center' alt ="javaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align = 'center' alt ="ReactJs" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align = 'center' alt ="ReactNative" src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align = 'center' alt ="Netlify" src = "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-</div>
-
-Apaixonado por novas experiências, principalmente no mundo tech. Grande foco em resolução de problemas.
-
-## Entre em contato 
+- 📷 Trabalando como front-end
+- 👨‍🎓 estudando Java
 
 <div>
-    Email: <a href = "lopesjean81@gmail.com">lopesjean81@gmail.com</a><br>
-    Instagram: <a href = "instagram.com/jean_cl_oliveira">@jean_cl_oliveira</a>
+    <a href = "https://github.com/devJcdzn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devJcdzn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJcdzn&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<div syle= "display: inline_block"><br>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
+</div>
+
+##
+
+<div>
+    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+    <a href="https://dribbble.com/ZennitDev" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whit"></a>
 </div>
