@@ -21,11 +21,4 @@
 
 ##
 
-<div>
-    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-    <a href="https://dribbble.com/ZennitDev" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
-    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-    <a href="https://www.behance.net/Jcdznpro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whit"></a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/jean_cl_oliveira?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jean-carlos-35773823b/) [![Dribbble](https://img.shields.io/badge/Dribbble-000?style=for-the-badge&logo=dribbble)](https://dribbble.com/ZennitDev) [![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCvSSD29cZvoEJwdVPtIGKGA) [![Netlify](https://img.shields.io/badge/netlify-000?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/devjcdzn/overview)
