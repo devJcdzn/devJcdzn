@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Jean Carlos
 
-- 📷 Trabalando como front-end
+- 📷 Trabalhando como front-end
 - 👨‍🎓 estudando Java
 
 <div>
