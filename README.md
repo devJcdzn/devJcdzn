@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Jean Carlos
 
-- 📷 Trabalhando como front-end
-- 👨‍🎓 estudando Java
+- 📷 Working as Front-end
+- 👨‍🎓 In constant study
 
 <div>
     <a href = "https://github.com/devJcdzn">
