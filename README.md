@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Jean Carlos
 
-- 📷 Working as India-Hacker
-- 👨‍🎓 In constant study
+- Working as Indie-Hacker
+- In constant study
 
 <div>
     <a href = "https://github.com/devJcdzn">
