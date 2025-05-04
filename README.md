@@ -8,18 +8,17 @@ Atualmente, estou envolvido em projetos de SaaS inovadores, orquestração de pa
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** TypeScript, JavaScript
-- **Frontend:** React.js, Next.js, TailwindCSS
-- **Backend:** NestJS, Fastify, PrismaORM
-- **Banco de Dados:** PostgreSQL, MySQL
-- **DevOps:** Docker, Cloudflare Workers
+- **Linguagens:** TypeScript, JavaScript, Rust & Golang
+- **Frontend:** React.js, Next.js, TailwindCSS, Sass
+- **Backend:** NestJS, Fastify, PrismaORM, DrizzleORM, SQL, Mongoose
+- **Banco de Dados:** PostgreSQL, MySQL, SQLite, MongoDB
+- **DevOps:** Docker, Cloudflare Workers, AWS
 - **Outros:** Monorepos, Clean Architecture
 
 ## 💡 O que estou construindo?
 
 🔹 SaaS para gestão financeira de microempreendedores
 🔹 Orquestrador de gateways de pagamento
-🔹 Plataforma de gamificação para newsletters
 🔹 Encurtador de links com captura de leads
 🔹 Debugger inteligente para front-end
 🔹 Sistema de engajamento para comunidades
@@ -28,4 +27,5 @@ Atualmente, estou envolvido em projetos de SaaS inovadores, orquestração de pa
 
 💼 [LinkedIn](https://www.linkedin.com/in/jeancdev)
 🐙 [GitHub](https://github.com/devJcdzn)
+X [GitHub](https://x.com/clo_jeann)
 
