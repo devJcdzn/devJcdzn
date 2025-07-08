@@ -27,5 +27,5 @@ Atualmente, estou envolvido em projetos de SaaS inovadores, orquestração de pa
 
 💼 [LinkedIn](https://www.linkedin.com/in/jeancdev)
 🐙 [GitHub](https://github.com/devJcdzn)
-X [GitHub](https://x.com/clo_jeann)
+X [X/Twitter](https://x.com/clo_jeann)
 
